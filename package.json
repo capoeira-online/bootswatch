@@ -1,7 +1,7 @@
 {
-  "name": "bootswatch",
-  "description": "Bootswatch is a collection of themes for Bootstrap.",
-  "version": "4.5.2",
+  "name": "co-bootswatch",
+  "description": "(Capoeira Online) Bootswatch is a collection of themes for Bootstrap.",
+  "version": "4.5.3",
   "author": "Thomas Park",
   "homepage": "https://bootswatch.com",
   "license": "MIT",
