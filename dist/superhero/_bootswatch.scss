@@ -31,11 +31,6 @@
 
   a:not(.btn) {
     color: $white;
-    text-decoration: underline;
-  }
-
-  .dropdown-menu a {
-    text-decoration: none;
   }
 
   .text-muted {
@@ -209,13 +204,11 @@
 .page-link:hover,
 .page-link:focus {
   color: $white;
-  text-decoration: none;
 }
 
 // Indicators ==================================================================
 
 .alert {
-  border: none;
   color: $white;
 
   a,
