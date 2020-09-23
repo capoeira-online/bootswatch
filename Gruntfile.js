@@ -22,6 +22,7 @@ const SWATCHES = [
   'cosmo',
   'cyborg',
   // 'darkly',
+  'eclpsr',
   // 'flatly',
   // 'journal',
   // 'litera',
