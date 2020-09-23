@@ -36,7 +36,7 @@ const SWATCHES = [
   // 'slate',
   // 'solar',
   // 'spacelab',
-  // 'superhero',
+  'superhero',
   // 'united',
   // 'yeti'
 ];
