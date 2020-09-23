@@ -20,7 +20,7 @@ const DOCS_DEST = 'docs/4/';
 const SWATCHES = [
   'cerulean',
   'cosmo',
-  // 'cyborg',
+  'cyborg',
   // 'darkly',
   // 'flatly',
   // 'journal',
