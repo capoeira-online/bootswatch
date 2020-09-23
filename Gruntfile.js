@@ -19,7 +19,7 @@ const DIST_DIR = 'dist/';
 const DOCS_DEST = 'docs/4/';
 const SWATCHES = [
   'cerulean',
-  // 'cosmo',
+  'cosmo',
   // 'cyborg',
   // 'darkly',
   // 'flatly',
