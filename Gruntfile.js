@@ -23,6 +23,7 @@ const SWATCHES = [
   'cyborg',
   // 'darkly',
   'eclpsr',
+  'eclpsr-dark',
   // 'flatly',
   // 'journal',
   // 'litera',
